@@ -1,0 +1,6 @@
+# // yha ye file rahegi jo kisi kaam ki nahi hai
+
+node_module
+
+# .env ka mtlb enviroment variable
+.env
